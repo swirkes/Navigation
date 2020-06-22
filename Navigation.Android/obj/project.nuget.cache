@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "bGCj0sKBAY+eYjaRB8jJFi71WaiMaD6eC3/8CawMy9RxR9tVeJf4NsD2k7adFS+xkMY2XBzHZ3dqW25HKfm3eg==",
+  "dgSpecHash": "n/QpXxa/BMt721SP1t3orFqhx1Kb4IxWoJak53NQnmXJwE/m+9Rbl+5opJwLjjAGhmAhs0d7+nY4p/rnKcgfVQ==",
   "success": true,
   "projectFilePath": "/Users/shanewirkes/Projects/Navigation/Navigation.Android/Navigation.Android.csproj",
   "expectedPackageFiles": [
-    "/Users/shanewirkes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.android.arch.core.runtime/1.1.1.3/xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.android.arch.lifecycle.common/1.1.1.3/xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",
@@ -42,8 +41,8 @@
     "/Users/shanewirkes/.nuget/packages/xamarin.android.support.vector.drawable/28.0.0.3/xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.android.support.versionedparcelable/28.0.0.3/xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.android.support.viewpager/28.0.0.3/xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
-    "/Users/shanewirkes/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
-    "/Users/shanewirkes/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+    "/Users/shanewirkes/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/shanewirkes/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512"
   ],
   "logs": []
 }

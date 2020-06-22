@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::Navigation.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.RoomReservations.xaml", "RoomReservations.xaml", typeof(global::Navigation.RoomReservations))]
 
 namespace Navigation {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage.xaml")]
-    public partial class WelcomePage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("RoomReservations.xaml")]
+    public partial class RoomReservations : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Image image;
+        private global::Xamarin.Forms.WebView Browser;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WelcomePage));
-            image = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "image");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(RoomReservations));
+            Browser = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.WebView>(this, "Browser");
         }
     }
 }

@@ -8,20 +8,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::Navigation.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.Login.xaml", "Login.xaml", typeof(global::Navigation.Login))]
 
 namespace Navigation {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage.xaml")]
-    public partial class WelcomePage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Login.xaml")]
+    public partial class Login : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Image image;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WelcomePage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Login));
             image = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "image");
         }
     }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DZIqK3fCKmGDruCCxMoYqN6L5f7OT1u/SqUnOP1+wASvd3eQmVzeWhOFbWRiHJGf9zJ9tvUnSRT4OU9Ux/3SiA==",
+  "dgSpecHash": "dwqWcTw6Xoma4Yzl0urytZRzki5c7fWJw2/39EsaRt+9t6igTLVIhujXtRaigAUW5tm9bXLRvH/e/UCesgxxnw==",
   "success": true,
   "projectFilePath": "/Users/shanewirkes/Projects/Navigation/Navigation.UITests/Navigation.UITests.csproj",
   "expectedPackageFiles": [
     "/Users/shanewirkes/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
-    "/Users/shanewirkes/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+    "/Users/shanewirkes/.nuget/packages/xamarin.uitest/3.0.7/xamarin.uitest.3.0.7.nupkg.sha512"
   ],
   "logs": []
 }

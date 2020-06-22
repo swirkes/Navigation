@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sGHe0fzAdbJC9RkCIWsckyXDHNdf2Wc2qhmTrPaRt4rO36AGZea25WXJLefBuqnD0LWK9Fmh34ovpsuFt2FfBw==",
+  "dgSpecHash": "1byFeh/KoMTnzlHfebTsTVtSTbKfU92yJ1/Z+Gamz8Jm+GocjoMYdrtcsLlV/OlxTEkc4vnHfDI7jhAWiTOH4g==",
   "success": true,
   "projectFilePath": "/Users/shanewirkes/Projects/Navigation/Navigation.iOS/Navigation.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/shanewirkes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/shanewirkes/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
-    "/Users/shanewirkes/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512",
+    "/Users/shanewirkes/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/shanewirkes/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512",
     "/Users/shanewirkes/.nuget/packages/xamarin.testcloud.agent/0.21.9/xamarin.testcloud.agent.0.21.9.nupkg.sha512"
   ],
   "logs": []

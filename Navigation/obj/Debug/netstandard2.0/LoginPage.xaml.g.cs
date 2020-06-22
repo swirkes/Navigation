@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::Navigation.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Navigation.LoginPage.xaml", "LoginPage.xaml", typeof(global::Navigation.WelcomePage))]
 
 namespace Navigation {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("LoginPage.xaml")]
     public partial class WelcomePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
